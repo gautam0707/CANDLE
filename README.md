@@ -1,5 +1,5 @@
 # CANDLE <img align="right" src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg">
-This repository consists CANDLE: An Image Dataset for <span style="color: orange">C</span>ausal <span style="color: orange">AN</span>alysis in <span style="color: orange">D</span>isentang<span style="color: orange">L</span>ed r<span style="color: orange">E</span>presentations.
+This repository consists CANDLE: An Image Dataset for **C**ausal **AN**alysis in **D**isentang**L**ed r**E**presentations.
 
 # Sample images
 ![CANDLE grid](./sample_images/grid.png)
