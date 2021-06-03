@@ -20,6 +20,33 @@ The dataset contains 12546 `png` images and corresponding `json`s with the groun
 Light | Left, Middle, Right |
 | Scene | Indoor, Playground, Outdoor, Bridge, City Square, Hall,Grassland, Garage, Street, Beach, Station, Tunnel, Moonlit Grass, Dusk City, Skywalk, Garden |
 
+# Structure of the ground-truth metadata
+<img align="right" style="margin-left: 10px" src="./sample_images/4150.png">
+
+```json
+{   
+    "scene": "bridge",
+    "lights": "left",
+    "objects": {
+        "Sphere_0": {
+            "object_type": "sphere",
+            "color": "red",
+            "size": 2,
+            "rotation": 60,
+            "bounds": [
+                [
+                    95,
+                    29
+                ],
+                [
+                    154,
+                    87
+                ]
+            ]
+        }
+    }
+}
+```
 # Scenes
 More examples of every scene included in the dataset can be found at `./sample_images/scenes/`.
 
