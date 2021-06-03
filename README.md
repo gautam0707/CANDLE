@@ -21,7 +21,7 @@ Light | Left, Middle, Right |
 | Scene | Indoor, Playground, Outdoor, Bridge, City Square, Hall,Grassland, Garage, Street, Beach, Station, Tunnel, Moonlit Grass, Dusk City, Skywalk, Garden |
 
 # Structure of the ground-truth metadata
-<img align="right" height=300px style="margin-left: 10px" src="./sample_images/4150.png">
+<img align="right" height=315px style="margin-left: 10px" src="./sample_images/4150.png">
 
 ```json
 {   
