@@ -24,7 +24,9 @@ Light | Left, Middle, Right |
 | Scene | Indoor, Playground, Outdoor, Bridge, City Square, Hall,Grassland, Garage, Street, Beach, Station, Tunnel, Moonlit Grass, Dusk City, Skywalk, Garden |
 
 # Structure of the ground-truth metadata
+
 The dataset contains 12546 `png` images. Corresponding ground truth information is provided in `json` format as shown below.
+
 <img align="right" height=310px style="margin-left: 10px" src="./sample_images/4150.png">
 
 ```json
@@ -44,6 +46,7 @@ The dataset contains 12546 `png` images. Corresponding ground truth information 
     }
 }
 ```
+
 # Code
 The code and instructions to reproduce experiments in the paper can be found [here](https://github.com/causal-disentanglement/disentanglement_lib) 
 # How to cite our work
