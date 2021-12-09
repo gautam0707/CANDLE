@@ -22,20 +22,21 @@ Light | Left, Middle, Right |
 
 The dataset contains 12546 `png` images. Corresponding ground truth information is provided in `json` format as shown below.
 
-<img align="right" height=310px style="margin-left: 10px" src="./sample_images/4150.png">
+<img align="right" height=310px style="margin-left: 10px" src="./sample_images/3541.png">
 
 ```json
-{   
-    "scene": "bridge",
-    "lights": "left",
+{
+    "scene": "playground",
+    "lights": "middle",
     "objects": {
-        "Sphere_0": {
-            "object_type": "sphere",
-            "color": "red",
-            "size": 2,
-            "rotation": 60,
+        "Torus_0": {
+            "object_type": "torus",
+            "color": "blue",
+            "size": 2.5,
+            "rotation": 15,
             "bounds": [
-                [95, 29], [154, 87]
+                [150,36],
+                [245,66]
             ]
         }
     }
