@@ -1,4 +1,4 @@
-# CANDLE <img align="right" src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg">
+# IITH-CANDLE <img align="right" src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg">
 # Sample images from CANDLE
 ![CANDLE grid](./sample_images/grid.png)
 The code used to simulate the dataset can be found at [the candle-simulator repository](https://github.com/causal-disentanglement/candle-simulator).
